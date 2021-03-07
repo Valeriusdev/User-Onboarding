@@ -5,7 +5,7 @@ import Form from './Form.js'
 function App() {
   return (
     <div>  
-      <p> Here is my form </p>
+      <p> The form is here </p>
       <Form />
     </div>
 
